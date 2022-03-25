@@ -84,7 +84,6 @@ div.home {
 }
 
 .galeria {
-	background-color: #e7efff;
 	width: 100%;
 	padding-bottom: 50px;
 
@@ -93,7 +92,7 @@ div.home {
 
 .galeria img {
 	width: 275px;
-	filter: grayscale(100%) blur(5px);
+	filter: grayscale(75%) blur(1px);
 
 	display: block;
 	margin-left: auto;
